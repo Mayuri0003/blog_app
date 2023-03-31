@@ -1,1 +1,1 @@
-# blog_app
+This is a simple blogging website created using HTML,CSS and Javascript in frontend and Python and Django in backend. This is a website where users can login with their email addresses and write blogs and comments.
